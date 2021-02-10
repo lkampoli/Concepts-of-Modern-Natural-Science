@@ -1,7 +1,2 @@
-# Concepts-of-Modern-Natural-Science
-Концепции современного естествознания
-
-
-# References
-
-http://www-formal.stanford.edu/jmc/whatisai/
+# Concepts of Modern Natural Science
+Material for the course Концепции современного естествознания
